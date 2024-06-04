@@ -1,10 +1,10 @@
 <div align="center">
 
-<h2> Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty </h2>
+<h2> Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity </h2>
         
 </div>
 
-Official code for the paper ["Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty"](https://arxiv.org/abs/2402.06529).
+Official code for the paper ["Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity"](https://arxiv.org/abs/2402.06529).
 
 Authors: [Kaiqu Liang](https://kaiquliang.github.io/), [Zixu Zhang](https://zzx9636.github.io/), [Jaime Fernández Fisac](https://saferobotics.princeton.edu/jaime).
 
