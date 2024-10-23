@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2> Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity </h2>
+<h2> 【NeurIPS 2024】Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity </h2>
         
 </div>
 
