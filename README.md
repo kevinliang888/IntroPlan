@@ -49,11 +49,10 @@ This change means that using logit_bias to ensure that tokens {A, B, C, D, E} ar
 ## Citation
 If you find this code to be useful for your research, please consider citing.
 <pre>
-@article{liang2024introspective,
-  title={Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty},
+@inproceedings{liangintrospective,
+  title={Introspective Planning: Aligning Robots' Uncertainty with Inherent Task Ambiguity},
   author={Liang, Kaiqu and Zhang, Zixu and Fisac, Jaime Fern{\'a}ndez},
-  journal={arXiv preprint arXiv:2402.06529},
-  year={2024}
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
 }</pre>
 
 ## Acknowledgements
